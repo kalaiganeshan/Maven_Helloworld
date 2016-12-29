@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -e -x
-git clone Maven_Sample1 resource-app
+git clone Maven_Helloworld resource-app
 echo "creating file"
 cd resource-app
 echo "created the file"
