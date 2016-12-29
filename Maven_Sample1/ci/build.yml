@@ -8,7 +8,7 @@ image_resource:
     tag: latest
     
 inputs:
-  - name: Maven_Sample1
+  - name: Maven_Helloworld
   
 outputs:
   - name: resource-app
