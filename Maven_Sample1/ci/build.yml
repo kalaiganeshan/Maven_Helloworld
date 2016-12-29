@@ -14,4 +14,4 @@ outputs:
   - name: resource-app
   
 run:
-  path: sample-app/ci/build.sh
+  path: Maven_Helloworld/Maven_Sample1/ci/build.sh
